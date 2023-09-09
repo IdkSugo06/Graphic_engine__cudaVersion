@@ -2,7 +2,7 @@
 #include <Windows.h>
 #include "../Object/Object.hpp"
 
-#define SCREEN_WIDTH 2500
+#define SCREEN_WIDTH 1920
 #define SCREEN_HEIGHT (int)(SCREEN_WIDTH*9/16)
 #define SCREEN_PIXELNUMBER SCREEN_WIDTH * SCREEN_HEIGHT
 
