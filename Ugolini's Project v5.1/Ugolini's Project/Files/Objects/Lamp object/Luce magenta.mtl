@@ -1,0 +1,21 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Flat_Panel_Stage_Light_Bulb_M.002
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 1.700000 0.900000 2.400000
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Flat_Panel_Stage_Light_Bulb_M_Base_color.bmp
+
+newmtl Flat_Panel_Stage_Light_Metal_M.002
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Flat_Panel_Stage_Light_Metal_M_Base_color.bmp

@@ -1,0 +1,26 @@
+# Blender MTL File: 'g18.blend'
+# Material Count: 2
+
+newmtl g18
+Ns 1500.444471
+Ka 1.000000 1.000000 1.000000
+Kd 0.027210 0.027210 0.027210
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump g18_opengl_n.bmp
+map_Kd g18_basecolor.bmp
+
+newmtl g18.001
+Ns 1500.444471
+Ka 1.000000 1.000000 1.000000
+Kd 0.027210 0.027210 0.027210
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump g18_opengl_n.bmp
+map_Kd g18_basecolor.bmp

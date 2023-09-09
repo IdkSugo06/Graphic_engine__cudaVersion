@@ -1,0 +1,13 @@
+# Blender 3.4.1 MTL File: 'bullet_low.blend'
+# www.blender.org
+
+newmtl Low_poly_bullet
+Ns 1500.152405
+Ka 0.975410 0.975410 0.975410
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Bullet Low Diffuse.bmp
+map_Bump -bm 1.000000 Bullet Low Normals.bmp

@@ -1,0 +1,19 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.001
+Ns 650.384338
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+map_Bump -bm 10.000000 NormalMapMattoni.bmp
+map_Kd TextureMattoni.bmp
+
+
+newmtl Material.002
+Ns 650.384338
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+map_Kd TextureMattoni.bmp
+
